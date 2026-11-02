@@ -1,24 +1,15 @@
-
 <div align="center">
 
 # Hi, I'm Chinta Hema Chandu Kumar 👋
 
-### AI Trainee @ Calibo AI Academy | AI/ML Enthusiast | Generative AI | Computer Vision
+### Aspiring AI/ML Engineer | Generative AI | LLMs & RAG | Computer Vision
+
+Building practical AI-powered applications and exploring how machine learning and generative AI can solve real-world problems.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+and+LLMs;Learning+Machine+Learning+and+Computer+Vision;Turning+ideas+into+intelligent+solutions" alt="Typing animation" />
-</p>
-
-<p>
-  <a href="https://github.com/chandukumarchinta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chandukumarchinta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chandukumarchinta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/chandukumarchinta"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 📍 Vijayawada, Andhra Pradesh, India
@@ -29,91 +20,81 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year **B.Tech Computer Science and Engineering student** passionate about Artificial Intelligence and Machine Learning.
+I'm a final-year **B.Tech Computer Science and Engineering student (2023–2027)** interested in building useful software with **Artificial Intelligence, Machine Learning, and Generative AI**.
 
-- 🤖 Interested in Generative AI, LLMs, and Computer Vision.
-- 🧠 Exploring AI-powered applications and intelligent assistants.
-- 🔍 Building practical projects to solve real-world problems.
-- 📚 Continuously learning new AI technologies and development tools.
-- 🎯 Goal: To begin my career in AI/ML and contribute to impactful AI solutions.
+- 🤖 Exploring LLM applications, Retrieval-Augmented Generation (RAG), and AI assistants.
+- 👁️ Building computer vision projects with YOLO and OpenCV.
+- 🧩 Developing Python applications, REST APIs, and data workflows.
+- 📈 Working with data analysis and visualization libraries.
+- 🎯 Looking for opportunities to learn, collaborate, and contribute as an AI/ML fresher.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧰 Technical Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Artificial Intelligence
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-0A9396?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-2196F3?style=for-the-badge)
-
-### Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Area | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| AI & ML | Machine Learning, Generative AI, LLMs, RAG, NLP |
+| Computer Vision | OpenCV, YOLO |
+| Python Libraries | NumPy, Pandas, Matplotlib, Seaborn, FAISS |
+| Frameworks & APIs | FastAPI, Flask, Streamlit, REST APIs |
+| Databases | MySQL, SQLite |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Object Detection System
-A computer vision project exploring object detection using YOLO and OpenCV.
+### 1. [Persona AI](https://github.com/chandukumarchinta/PERSONA-AI)
+An AI-powered digital twin and career assistant that uses uploaded personal documents to support contextual conversations and career-related workflows.
 
-**Technologies:** Python, YOLO, OpenCV
+**Tech:** Python, FastAPI, RAG, FAISS, Gemini API, React
 
-### 🐼 Panda AI
-An AI voice assistant designed to interact with users through voice-based functionality.
+### 2. [Panda AI](https://github.com/chandukumarchinta/panda-ai)
+A voice-enabled AI assistant with conversational interaction, speech input/output, and an interactive web interface.
 
-**Technologies:** Python, HTML, CSS, JavaScript, Groq API
+**Tech:** Python, Flask, JavaScript, Gemini/OpenAI APIs, Web Speech API
 
-### 🧑‍💼 Persona AI
-An AI-powered interview assistant chatbot designed to support interview practice and interactions.
+### 3. [Real-Time Object Detection & Tracking](https://github.com/chandukumarchinta/object-detection)
+A computer vision dashboard for detecting, tracking, counting, and logging objects from webcam, image, and video sources.
 
-**Technologies:** AI, Python, Chatbot Development
+**Tech:** Python, YOLOv8, OpenCV, Streamlit, PyTorch, Pandas, NumPy
 
-### 📊 Customer Review Sentiment Analysis
-A project focused on analyzing customer reviews and identifying sentiment from text data.
+### 4. [Food Orders ELT Pipeline](https://github.com/chandukumarchinta/food-oders-ELT-pipeline)
+A batch-based data pipeline that extracts raw food-order data, transforms and validates records, and loads cleaned data into MySQL for analysis.
 
-**Technologies:** Python, NLP, Machine Learning
+**Tech:** Python, Pandas, MySQL, SQL
 
-### ☕ Campus Cafe API
-A REST API project for managing campus cafe orders, retrieving order data, and analyzing order information.
+### 5. [Titanic ELT Pipeline](https://github.com/chandukumarchinta/ELT-pipeline)
+An end-to-end ELT workflow that loads raw data into MySQL, performs SQL-based transformations, creates analytical views, and runs data-quality checks.
 
-**Technologies:** Python, FastAPI, Pandas
+**Tech:** Python, MySQL, SQL, Pandas
 
-> Add the actual repository links to these projects once you verify their repository names.
+### 6. [Student Management Flask App](https://github.com/chandukumarchinta/StudentManagement_Flask_App)
+A Flask-based student management application backed by MySQL.
+
+**Tech:** Python, Flask, MySQL
 
 ---
 
 ## 🎓 Certifications & Learning
 
-- 🏅 NPTEL — Three certifications
-- ☁️ Google Cloud Career Launchpad — Computing Foundations
-- 📜 Infosys Springboard — Certifications
-- 🤖 Generative AI Internship — Completed
+- **NPTEL:** Three certifications
+- **Google Cloud Career Launchpad:** Computing Foundations
+- **Infosys Springboard:** Completed learning certifications
+- **Generative AI Internship:** Indian Servers
 
-*Add certificate names, credential links, and issuing organizations to make this section more useful to recruiters.*
+*I’m continuing to build my skills through hands-on projects and technical learning.*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandukumarchinta&show_icons=true&theme=tokyonight&hide_border=true" alt="Chandu's GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandukumarchinta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandukumarchinta&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandukumarchinta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=chandukumarchinta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -121,30 +102,23 @@ A REST API project for managing campus cafe orders, retrieving order data, and a
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Generative AI and Large Language Models
-- AI application development
-- Computer Vision
-- Building and integrating APIs
-- GitHub collaboration and project documentation
-
----
-
-## 💡 What I Value
-
-- **Curiosity** — Always eager to learn.
-- **Problem Solving** — Finding practical solutions.
-- **Consistency** — Improving through regular practice.
-- **Innovation** — Exploring useful AI applications.
-- **Collaboration** — Learning and building with others.
+- Generative AI and LLM application development
+- RAG-based applications and AI assistants
+- Machine Learning and Computer Vision
+- Data analysis, visualization, and API development
 
 ---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Chinta Hema Chandu Kumar](https://www.linkedin.com/in/chinta-hema-chandu-kumar-8b0410398/)
+- **Email:** [chandukumarchinta@gmail.com](mailto:chandukumarchinta@gmail.com)
+- **GitHub:** [@chandukumarchinta](https://github.com/chandukumarchinta)
 
 <div align="center">
 
-### Thanks for visiting my profile! 💜
-
-⭐ Explore my repositories and follow my journey in AI and Machine Learning.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
 
 </div>
