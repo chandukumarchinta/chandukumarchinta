@@ -34,13 +34,16 @@ I'm a final-year **B.Tech Computer Science and Engineering student (2023–2027)
 
 | Area | Technologies |
 |---|---|
-| Programming | Python, SQL |
-| AI & ML | Machine Learning, Generative AI, LLMs, RAG, NLP |
-| Computer Vision | OpenCV, YOLO |
-| Python Libraries | NumPy, Pandas, Matplotlib, Seaborn, FAISS |
-| Frameworks & APIs | FastAPI, Flask, Streamlit, REST APIs |
-| Databases | MySQL, SQLite |
-| Tools | Git, GitHub, VS Code |
+| Programming Languages | Python, SQL |
+| Data Analysis | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Data Validation |
+| Data Visualization | Power BI, Microsoft Excel, Matplotlib, Seaborn |
+| Databases | MySQL, MongoDB, SQLite |
+| Data Engineering | ETL/ELT Pipelines, Data Transformation, Handling Missing Values |
+| AI & Machine Learning | Machine Learning, Generative AI, LLMs, Prompt Engineering, RAG, NLP, Computer Vision |
+| Computer Vision Tools | OpenCV, YOLO |
+| Backend & APIs | Flask, FastAPI, Streamlit, REST APIs, API Integration |
+| Python Libraries | FAISS |
+| Tools & Development Environment | Git, GitHub, Jupyter Notebook, VS Code |
 
 ---
 
